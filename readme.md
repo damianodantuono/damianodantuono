@@ -15,5 +15,5 @@ Technologies I use on a daily basis:
   - DataFlow
   - Cloud Storage
   - Cloud Functions
-- Talend
+- Talend and DBT
 - Gitlab CI/CD
